@@ -1,7 +1,16 @@
 .App {
   text-align: center;
 }
-
+.chart{
+  width: 50%;
+  margin-left:400px;
+}
+.Doughnutchart{
+  width: 70%;
+  margin-left:80px;
+  border: 2px solid grey;
+  margin-top: 5px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
